@@ -9,6 +9,7 @@ Hosted through AWS EC2.
 [Pathetic Python](https://discord.com/api/oauth2/authorize?client_id=953411405518868500&permissions=8&scope=bot)
 
 More features coming soon. 
+
 **UPDATE** April 30th 2022 Pathetic Python and other bots that rely on message content will no longer be able to become verified bots without message intent approval. This will only significantly affect bots who are present in > 75 servers. [Read more here](https://support-dev.discord.com/hc/en-us/articles/4404772028055)
 
 ## How to create your own Discord bot: 
@@ -34,5 +35,5 @@ python3 -m pip install -U discord.py
 ```
 For security, create a .env file to contain your Discord Bot token.
 ```
-DISCORD_TOKEN = "{insert-your-token-here"
+DISCORD_TOKEN = "{insert-your-token-here}"
 ```
