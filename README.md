@@ -23,7 +23,7 @@ More features coming soon.
 5. To invite your bot to a server, find 'OAuth2'
 ![OAuth2](/OAuth2.png)
 6. Select 'Bot' from scopes, then select permissions necessary. For testing on a personal server, I recommend admin. 
-![Generate URL](/GenerateURL.png)
+![Generate URL](/Generate URL.png)
 7. Copy link into browser, and invite to server you will be testing on. 
 8. Bot code: [here](/bot.py)
 
