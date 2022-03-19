@@ -5,12 +5,12 @@ V. 1
 Simple bot that provides humor and sarcasm in a Discord text channel.
 Hosted through AWS EC2.
 
-# To invite Pathetic Python to your server:
+## To invite Pathetic Python to your server:
 [Pathetic Python](https://discord.com/api/oauth2/authorize?client_id=953411405518868500&permissions=8&scope=bot)
 
 More features coming soon. 
 
-# How to create your own Discord bot: 
+## How to create your own Discord bot: 
 
 1. Create a [Discord](https://discord.com/) account. 
 2. Create a Discord server to test bot in. Must have 'Manage Server' permissions to invite bots. 
