@@ -47,7 +47,7 @@ python3 -m bot.py
 ```
 10. The bot will stay online while your Python application is running locally. To host in the cloud using AWS, follow steps 11 - ?.
 
-###Hosting in [AWS](https://aws.amazon.com/)
+### Hosting in [AWS](https://aws.amazon.com/)
 12. Create an instance in AWS EC2. For basic purposes, their free tier Linux works perfect. Save the .PEM file when creating instance for connecting via SSH.
 13. Using PUTTYGen, create .PPK file from .PEM. Install PUTTY [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 14. Using PUTTY, connect to server using the public facing IP address and your PPK file.
