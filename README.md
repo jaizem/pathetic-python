@@ -21,9 +21,11 @@ More features coming soon.
    IMPORTANT! Make sure to copy the token when creating your bot, this is how you will connect your code to Discord.
    You can reset this if you lose it or there are security vulnerabilites. 
 5. To invite your bot to a server, find 'OAuth2'
-![OAuth2](/OAuth2.png)
+![OAuth2](OAuth2.png)
+
 6. Select 'Bot' from scopes, then select permissions necessary. For testing on a personal server, I recommend admin. 
 ![Generate URL](GenerateURL.PNG)
+
 7. Copy link into browser, and invite to server you will be testing on. 
 8. Bot code: [here](/bot.py)
 
